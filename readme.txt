@@ -1,2 +1,3 @@
 Welcome to MyProject!
-Author: thomas
+Author: Thomas
+twitter: @hello
